@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yahboom/software/library_ws/devel/include/**",
+        "/home/yahboom/yahboomcar_ws/devel/include/**",
+        "/home/yahboom/software/world_canvas/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/yahboom/software/library_ws/src/astra_camera/include/**",
+        "/home/yahboom/car_ws/src/camera_BodyDetect/include/**",
+        "/home/yahboom/software/library_ws/src/imu_calib/include/**",
+        "/home/yahboom/software/library_ws/src/imu_filter_madgwick/include/**",
+        "/home/yahboom/software/library_ws/src/opencv_apps/include/**",
+        "/home/yahboom/software/library_ws/src/robot_localization/include/**",
+        "/home/yahboom/software/library_ws/src/rrt_exploration/include/**",
+        "/home/yahboom/software/world_canvas/src/warehouse_ros/include/**",
+        "/home/yahboom/software/world_canvas/src/warehouse_ros_mongo/include/**",
+        "/home/yahboom/software/world_canvas/src/world_canvas_libs/world_canvas_client_cpp/include/**",
+        "/home/yahboom/yahboomcar_ws/src/yahboomcar_astra/include/**",
+        "/home/yahboom/yahboomcar_ws/src/yahboomcar_bringup/include/**",
+        "/home/yahboom/yahboomcar_ws/src/yahboomcar_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
